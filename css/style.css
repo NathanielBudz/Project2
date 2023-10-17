@@ -29,6 +29,7 @@ h3 {
 p {
 	text-align: left;
 	font-size: 25px;
+	font-family: 'biorhymeregular';
 	color: #333;
 }
 	
@@ -41,11 +42,14 @@ p {
 	display: inline-block;
   	margin-right: 20px;
   	transition: color 0.5s;
-	text-size: 25px;	
+	text-size: 30px;	
 }
 #main-page ul li a:hover {
 	color: #0077b6
 }
 
-
+img.rankings-image {
+	margin-top: 50px;
+	margin-left: 100px;
+}
 	

@@ -48,11 +48,11 @@ p {
 #main-page ul li a:hover {
 	color: #0077b6
 }
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.rankings {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh;
 }
+
 	

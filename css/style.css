@@ -36,13 +36,13 @@ p {
 #main-page ul {
 	list-style: none; 
  	text-align: center; 
-  	display: inline-block; 
+  	padding: 0; 
 }
 #main-page ul li {
 	display: inline-block;
   	margin-right: 20px;
   	transition: color 0.5s;
-	text-size: 30px;	
+	font-size: 30px;	
 }
 #main-page ul li a:hover {
 	color: #0077b6

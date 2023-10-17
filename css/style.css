@@ -43,7 +43,7 @@ p {
   	transition: color 0.5s;
 	font-size: 30px;
 	text-align: center;
-	margin-right: 20px;
+	margin-right: 40px;
 }
 #main-page ul li a:hover {
 	color: #0077b6

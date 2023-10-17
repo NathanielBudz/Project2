@@ -4,19 +4,21 @@ body {
 h1 {
 	text-align: center;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
-	font-size: 24px;
+	font-size: 50px;
 	color: #333;
 }	
-#main-page {
+#main-page ul {
 	list-style: none;
   	text-align: center;
   	padding: 0;
 }
-ul {
+#main-page ul li {
 	display: inline-block;
   	margin-right: 20px;
   	transition: color 0.3s;
 }
-ul  li a {
-	color: #0077b6;
+#main-page ul li a:hover {
+	color: #0077b6
 }
+
+	

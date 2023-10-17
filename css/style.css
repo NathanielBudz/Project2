@@ -50,8 +50,10 @@ p {
 	color: #0077b6
 }
 
-img.rankings-image {
-	margin-top: 50px;
-	margin-left: 100px;
+.rankings {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 	

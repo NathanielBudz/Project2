@@ -44,7 +44,8 @@ p {
 #main-page ul {
 	list-style: none; 
  	text-align: center; 
-  	padding: 0; 
+  	padding: 0;
+	text-decoration:none; 	
 }
 #main-page ul li {
 	display: inline-block;
@@ -52,6 +53,7 @@ p {
 	font-size: 30px;
 	text-align: center;
 	margin-right: 40px;
+	text-decoration:none; 
 }
 #main-page ul li a:hover {
 	color: #0077b6
@@ -79,6 +81,12 @@ h4 {
 	font-size: 35px;
 	font-family: Garamond, serif;
 }
+.microcenter {
+	list-style: none;
+	font-size: 90%;
+	padding: 5%;
+}
+
 
  
 	
